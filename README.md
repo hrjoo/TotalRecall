@@ -1,1 +1,6 @@
-# TotalRecall
+# Total recall: episodic memory retrieval, choice, and memory confidence in the rat
+_Authors: Hannah R. Joo,  Hexin Liang,  Jason E. Chung, Charlotte Geaghan-Breiner,  Jiang Lan Fan,  Benjamin P. Nachman,  Adam Kepecs,  Loren M. Frank_
+
+_Abstract: Episodic memory enables recollection of past experiences to guide future behavior. Humans know which memories to trust (high confidence) and which to doubt (low confidence). How memory retrieval, memory confidence, and memory-guided decisions are related, however, is not understood. Additionally, whether animals can assess confidence in episodic memories to guide behavior is unknown. We developed a spatial episodic memory task in which rats were incentivized to gamble their time: betting more following a correct choice yielded greater reward. Rat behavior reflected memory confidence, with higher temporal bets following correct choices. We applied modern machine learning to identify a memory decision variable, and built a generative model of memories evolving over time that accurately predicted both choices and confidence reports. Our results reveal in rats an ability thought to exist exclusively in primates, and introduce a unified model of memory dynamics, retrieval, choice, and confidence._
+
+This repository complements the paper with the above title and can be found on [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.14.420174v1.full).
